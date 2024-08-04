@@ -3,3 +3,26 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.login{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;  
+  align-items: center;
+  background-color: black;
+  background-image: url("https://i.pinimg.com/736x/a3/cd/d8/a3cdd8a18bb93693615dee886640373d.jpg");
+  background-repeat: no-repeat;
+  background-size:contain;
+  background-position: calc(100%/2);
+
+}
+
+.start-btn{
+  height: 50px;
+  width: 100px;
+  margin-top: 100px;
+  background-color: transparent;
+  text-align: center;
+  color:white ;
+}
